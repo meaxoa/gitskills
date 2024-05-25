@@ -1,2 +1,2 @@
 # gitskills
-Creating a new branch dev.
+Creating a new branch dev is fast
